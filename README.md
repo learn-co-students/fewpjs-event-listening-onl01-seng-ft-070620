@@ -1,6 +1,6 @@
 # Interacting with the DOM via JavaScript Event Listeners
 
-## Learning Goals
+## Learning Goals 
 
 - Demonstrate triggering event listeners on DOM nodes with `addEventListener()`
 
